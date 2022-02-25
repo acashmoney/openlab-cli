@@ -24,7 +24,7 @@ $ npm install -g @labdao/openlab-cli
 $ openlab COMMAND
 running command...
 $ openlab (--version)
-@labdao/openlab-cli/0.0.2 linux-x64 node-v14.18.2
+@labdao/openlab-cli/0.0.3 linux-x64 node-v14.18.2
 $ openlab --help [COMMAND]
 USAGE
   $ openlab COMMAND
